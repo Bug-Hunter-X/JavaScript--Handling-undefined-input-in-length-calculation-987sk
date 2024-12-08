@@ -1,0 +1,3 @@
+# JavaScript: Handling undefined input in length calculation
+
+This code demonstrates a common error in JavaScript: attempting to access the `length` property of an undefined value.  The original code throws a `TypeError` when an undefined value is passed. The solution includes improved error handling to prevent this.  This is crucial for writing robust and reliable JavaScript code that handles unexpected inputs gracefully.
